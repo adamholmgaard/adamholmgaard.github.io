@@ -1,0 +1,12 @@
+---
+---
+@import "minimal-mistakes";
+
+.no-bullets .archive__item-excerpt ul {
+  list-style-type: none !important;
+  padding-left: 0 !important;
+}
+
+.archive__item-title {
+  overflow: visible !important;
+}
