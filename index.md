@@ -19,6 +19,7 @@ education_row:
 work_row:
   - title: "Work experience"
     excerpt: |
+      - **August 2026-December 2026:** Aarhus University, Teaching assistant for the [Cryptology](https://kursuskatalog.au.dk/da/course/142195/Cryptology) course, taught by Ivan Damgård
       - **May 2024-May 2026:** Partisia, Junior Software Developer
       - **February 2023-June 2023:** Proceedy, Student Software Developer
 publication_row:
